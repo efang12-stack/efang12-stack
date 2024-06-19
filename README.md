@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Experience:<br>✨  SWE Internat AT&T for Summer 2024<br>📚 AI Intern at Mentorz Inc. for Summer 2023<br>🎯 Self-taught App Developer in Swift<br>🎲 You can view some of my projects on my page!</p>
+<p align="left">Experience:<br>✨  SWE Internat AT&T for Summer 2024<br>📚 AI Intern at Mentorz Inc. for Summer 2023<br>🎯 Self-taught App Developer in Swift<br>🎲 You can view some of my projects down below!</p>
 
 ###
 
