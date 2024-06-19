@@ -10,9 +10,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://ibb.co/fMG5t8x"  />
-</div>
+![image](https://github.com/efang12-stack/efang12-stack/assets/122645724/11317db2-982c-47c2-aa1f-a74e9d9e6789)
+
 
 ###
 
